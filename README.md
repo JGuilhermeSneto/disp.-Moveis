@@ -1,2 +1,2 @@
-# disp.-Moveis
+# dispositivos Moveis
 aulas dispositvos
